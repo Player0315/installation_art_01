@@ -1,0 +1,2 @@
+# installation_art_01
+使用简单的Javascript制作了一个循环动画，用于艺术装置的展出
